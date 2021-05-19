@@ -1,0 +1,22 @@
+{
+  "elasticsearch": {
+    "host": [ "http://0.0.0.0:9200" ],
+    "indice": "indice"
+  }, 
+  "options": {
+    "host": "smtp.mail.ru",
+    "port": "587",
+    "secure": false,
+    "auth": {
+      "user": "username",
+      "pass": "password"
+    },
+    "tls": {
+      "rejectUnauthorized": false
+    }
+  },
+  "period": {
+    "time": 60000,
+    "limit": 10
+  }
+}

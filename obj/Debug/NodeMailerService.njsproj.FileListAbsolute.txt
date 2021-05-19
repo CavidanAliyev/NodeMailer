@@ -1,0 +1,6 @@
+C:\Users\AgS\Desktop\NodeMailerService\NodeMailerService\obj\Debug\NodeMailerService.njsprojAssemblyReference.cache
+C:\Users\AgS\Desktop\NodeMailerService\NodeMailerService\obj\Debug\NodeMailerService.njsproj.CoreCompileInputs.cache
+C:\Users\AgS\Desktop\NodeMailerService\NodeMailerService\bin\Microsoft.NodejsTools.WebRole.dll
+C:\projects\AgilesolutionESD\NodeMailerService\NodeMailerService\obj\Debug\NodeMailerService.njsprojAssemblyReference.cache
+C:\projects\AgilesolutionESD\NodeMailerService\NodeMailerService\obj\Debug\NodeMailerService.njsproj.CoreCompileInputs.cache
+C:\projects\AgilesolutionESD\NodeMailerService\NodeMailerService\bin\Microsoft.NodejsTools.WebRole.dll
